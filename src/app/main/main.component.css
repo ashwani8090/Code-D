@@ -1,14 +1,6 @@
 div{
-    height: 100vh;
     background: #3a3e40;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.bac{
-    background-image: url("../../assets/images/d.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
