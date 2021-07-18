@@ -1,0 +1,9 @@
+h1 {
+    color: #ffffff;
+}
+
+div{
+    height: 100vh;
+    width: 100vh;
+    background-image: url('../../assets/images/d.jpg');
+}
