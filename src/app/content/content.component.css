@@ -2,8 +2,7 @@ h1 {
     color: #ffffff;
 }
 
-div{
+div {
     height: 100vh;
-    width: 100vh;
-    background-image: url('../../assets/images/d.jpg');
+    width: 100%;
 }

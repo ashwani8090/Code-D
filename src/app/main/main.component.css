@@ -5,3 +5,10 @@ div{
     justify-content: center;
     align-items: center;
 }
+
+.bac{
+    background-image: url("../../assets/images/d.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
